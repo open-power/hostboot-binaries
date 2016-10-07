@@ -116,7 +116,7 @@ eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_lco_loader_pibmem.S|1.1
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_npll_initf.S|1.25
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_npll_setup.S|1.9
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_pb_startclocks.S|1.12
-eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_scominit.S|1.42
+eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_scominit.S|1.43
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_setup_evid.S|1.21
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_source_revision.S|1.2
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_stopclocks.S|1.1
