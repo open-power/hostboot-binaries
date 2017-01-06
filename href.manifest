@@ -92,7 +92,7 @@ eclipz/chips/p8/working/procedures/ipl/sbe/p8_slw.H|1.7
 eclipz/chips/p8/working/procedures/ipl/sbe/pore_bitmanip.H|1.10
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_arrayinit.S|1.20
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_check_master.S|1.34
-eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_chiplet_init.S|1.81
+eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_chiplet_init.S|1.82
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_decompress_scan.S|1.18
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_enable_seeprom.S|1.29
 eclipz/chips/p8/working/procedures/ipl/sbe/proc_sbe_error_handlers.S|1.4
@@ -226,7 +226,7 @@ eclipz/chips/p8/working/ec_ind/scan/p8.pe.initfile|1.13
 eclipz/chips/p8/working/ec_ind/scan/p8.perv.ex.initfile|1.12
 eclipz/chips/p8/working/ec_ind/scan/p8.perv.initfile|1.9
 eclipz/chips/p8/working/ec_ind/scan/p8.pm.core.initfile|1.3
-eclipz/chips/p8/working/ec_ind/scan/p8.pm.ex.initfile|1.13
+eclipz/chips/p8/working/ec_ind/scan/p8.pm.ex.initfile|1.14
 eclipz/chips/p8/working/ec_ind/scan/p8.pm.initfile|1.2
 #Removed to clean up tar
 #eclipz/chips/p8/working/ec_ind/scan/p8.xbus.pll.initfile|1.9
