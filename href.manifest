@@ -207,7 +207,7 @@ eclipz/chips/p8/working/ec_ind/scan/p8.dmi.initfile|1.5
 #Removed to clean up tar
 #eclipz/chips/p8/working/ec_ind/scan/p8.dmi.pll.initfile|1.7
 eclipz/chips/p8/working/ec_ind/scan/p8.dpll.initfile|1.5
-eclipz/chips/p8/working/ec_ind/scan/p8.ec.initfile|1.74
+eclipz/chips/p8/working/ec_ind/scan/p8.ec.initfile|1.78
 eclipz/chips/p8/working/ec_ind/scan/p8.fbc.ex.initfile|1.4
 eclipz/chips/p8/working/ec_ind/scan/p8.fbc.initfile|1.29
 #Removed to clean up tar
