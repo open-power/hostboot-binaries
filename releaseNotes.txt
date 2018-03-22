@@ -1,0 +1,71 @@
+# IBM_PROLOG_BEGIN_TAG 
+# This is an automatically generated prolog. 
+#  
+# $Source: releaseNotes.txt hw032218a.920 $
+#  
+# OpenPOWER hostboot-binaries Project
+#  
+# COPYRIGHT 2018
+# [+] International Business Machines Corp.
+#
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+# implied. See the License for the specific language governing
+# permissions and limitations under the License.
+#
+# IBM_PROLOG_END_TAG 
+=====================================
+Hardware Image Official Release Notes
+=====================================
+
+Level: hw032218a.920
+
+
+1>  7270c5f - Yue Du, 2018-03-13 : STOP: Fix Infinite Stacking up Stop Processing led by Entry Abort
+2>  158c136 - Rahul Batra, 2018-03-01 : PM: Fixes CME Registration Protocol Hang during PM_SUSPEND
+3>  ba2ceb0 - Yue Du, 2018-02-28 : STOP: Fix Wakeup terminate prematurely with mixed stop2 and stop4
+4>  563f398 - Matt Derksen, 2018-02-21 : Include WOF power mode explicitly inside tables
+5>  39bbfd3 - Ben Gass, 2018-03-09 : Add p9n 2.3 to p9_frequency_buckets.H
+6>  04bf9cd - Rahul Batra, 2018-03-08 : PGPE: Clip Updt Timeout for STOP >= 4 Fix
+7>  a808b83 - Greg Still, 2018-03-09 : PM: p9_setup_evid steps voltage to avoid Fleetwood VRM limitations
+8>  365e711 - Amit Tendolkar, 2018-02-19 : Update p9_collect_ppe_state to dynamically collect PPE FFDC
+9>  5bd3235 - Greg Still, 2018-03-01 : PM:  clear CPMM Error register special wake-up protocol bits on hostboot core
+10>  c8fb119 - Rahul Batra, 2018-03-01 : WOF: WOF Phase 2 Vindex Rounding Fix
+11>  9ac1dd5 - aravnair-in, 2018-02-28 : Fix a couple of EKB files to prevent CMVC quirk
+12>  13a1a5f - Yue Du, 2018-02-23 : STOP: Support Suspend Entry/Exit and Fix Pig Collision
+13>  f32dd76 - Claus Michael Olsen, 2018-02-22 : Update to putRingUtils to proper scanning of perv_pll_bndy_flt rings
+14>  28ead17 - Yue Du, 2018-02-13 : STOP: Fix window on partial bad EX regional Fence during arrayinit
+15>  72f01a4 - Claus Michael Olsen, 2018-02-02 : Additional risk level support - (step 2) Updating the image w/RL2
+16>  a092c76 - Luke C. Murray, 2018-02-15 : Updating NCU tlbie pacing dials
+17>  2697cfd - Ben Gass, 2017-12-08 : Re-submit Axone updates
+18>  2dd6296 - Claus Michael Olsen, 2018-02-13 : Bug fix to TOR API to not check TOR header version against TOR_VERSION
+19>  837ba9b - Rahul Batra, 2018-02-12 : PSTATE: Remove Already ON/OFF PGPE-OCC IPC Error RC
+20>  ac2d955 - Michael Floyd, 2018-02-09 : CME Size Reduction Fixes
+21>  84cd569 - Prasad Bg Ranganath, 2018-02-07 : PM: Fix Global Parameter Block and PGPE size checks in p9_hcode_image_build
+22>  0f2f59b - Prem Shanker Jha, 2017-11-27 : PM: Generation of summarized version  of STOP Recovery FFDC.
+23>  59152f0 - Yue Du, 2018-01-05 : STOP: Fix Phantom PCWU causing CME IOTA to halt
+24>  ff02e57 - Claus Michael Olsen, 2018-01-24 : Additional risk level support - (step 1) Backward compatibility
+25>  3821620 - Michael Floyd, 2018-02-05 : CME Code Size Reduction ATTEMPT#3
+26>  688a90d - Claus Michael Olsen, 2018-01-04 : Moving DD specific ring coord from TOR to XIP (step 2)
+27>  cdaed48 - Greg Still, 2018-01-30 : WOF:  Pass PGPE VPD IQ good normal core per sort for WOF Phase 2
+28>  e3efd24 - Rahul Batra, 2017-12-20 : PM: VDM Prolonged Droop Fix
+
+<End of mirrored commits list>
+
+
+=================================================================================
+Executable file(s) for the NVIDIA gpu (Files marked with an "(*)" have changed):
+=================================================================================
+
+(*) ionv.bin (md5 checksum:  7e2c37053084e8623d91a37ef8bf43f7)
+
+<End of File>
+
