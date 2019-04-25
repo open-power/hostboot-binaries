@@ -17,6 +17,8 @@ This package contains binary images related to hardware initialization.
 -	ima_catalog.bin : In Memory Accumulation catalog bina
 -	ionv.bin : NVIDIA GPU executable
 -	nimbus_sbe.img.ecc : Nimbus (P9) SBE image   [deprecated]
+-	p9a.hw.overlays.bin : Axone (P9') hardware ring overlay data
+-	p9a.hw.rings.bin : Axone (P9') hardware ring data
 -	p9n.hw.overlays.bin : Nimbus (P9) hardware ring overlay data
 -	p9n.hw.rings.bin : Nimbus (P9) hardware ring data
 -	p9n.ref_image.bin : Nimbus (P9) hardware image  [deprecated]
